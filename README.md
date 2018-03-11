@@ -3,7 +3,7 @@
 
 Python 能够使用各种各样的开发环境，这里我们强烈推荐使用 Anaconda 来进行Python 环境的管理，当然如果你有自己偏好的 Python 环境管理方式，你完全可以使用自己更喜欢的方式。
 
-1.登录 Anaconda 的官网 www.anaconda.com，选择下载
+1.登录 Anaconda 的官网 [www.anaconda.com](www.anaconda.com)，选择下载
 
 <img src="https://ws3.sinaimg.cn/large/006tNc79gy1fp8zfmxb5ej30lt0bb0tc.jpg" width='700'>
 

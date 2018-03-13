@@ -1,5 +1,5 @@
 # DeepLearning-StartKit
-### Anaconda安装
+### Python
 
 Python 能够使用各种各样的开发环境，这里我们强烈推荐使用 Anaconda 来进行Python 环境的管理，当然如果你有自己偏好的 Python 环境管理方式，你完全可以使用自己更喜欢的方式。
 
@@ -17,15 +17,17 @@ Python 能够使用各种各样的开发环境，这里我们强烈推荐使用 
 
 4.下载完成进行安装即可
 
+### Jupyter 安装和环境配置
 
-
-5.安装完成之后，liunx/mac 打开终端，windows打开 power shell，输入` jupyter notebook`就可以在浏览器打开交互的 notebook 环境，可以在里面运行代码，更多细节看操作演示的视频
+安装完成之后，liunx/mac 打开终端，windows打开 power shell，输入` jupyter notebook`就可以在浏览器打开交互的 notebook 环境，可以在里面运行代码
 
 <img src="https://ws2.sinaimg.cn/large/006tNc79ly1fp8zmwu2fuj31880pogmh.jpg" width="700">
 
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fpbc1j4ym5g30xo0ii7uu.gif" width="600">
 
 
-### CUDA 安装(NVIDIA GPU)
+
+### CUDA
 
 百度搜索 cuda，选择 CUDA Toolkit，进入 cuda 的官网，选择对应的操作系统进行下载
 
@@ -97,7 +99,9 @@ source ~/.bashrc
 
 
 
-### Tensorflow 安装
+### 深度学习框架 TensorFlow 和 PyTorch 安装
+
+#### TensorFlow 安装
 
 目前 Tensorflow 支持在 Linux, MacOS, Windows 系统下安装，有仅支持 CPU 的版本，在缺少 GPU 资源时是一个不错的选择，也有 GPU 版本的实现高性能 GPU 加速。
 
@@ -185,9 +189,7 @@ print(sess.run(hello))
 - 检查硬件配置是否满足需求，GPU版本的 Tensorflow 需要计算能力在 3.5 及以上的显卡，可以在这里 https://developer.nvidia.com/cuda-gpus 查到自己的显卡计算能力
 - 在 Tensorflow 的 Github issues 里面寻找类似问题及解决方案
 
-### PyTorch 安装
-
-
+#### PyTorch 安装
 
 目前 PyTorch 只支持linux 和 MacOS，在这两个系统下进行安装非常的简单，访问到官网
 
@@ -204,8 +206,6 @@ print(sess.run(hello))
  
 
 再次推荐使用 windows 的同学安装liunx 双系统或者使用云服务器进行 pytorch 的安装与学习
-
-
 
 #### 验证安装
 

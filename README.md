@@ -23,8 +23,6 @@ Python 能够使用各种各样的开发环境，这里我们强烈推荐使用 
 
 <img src="https://ws2.sinaimg.cn/large/006tNc79ly1fp8zmwu2fuj31880pogmh.jpg" width="700">
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fpbc1j4ym5g30xo0ii7uu.gif" width="600">
-
 
 
 ### CUDA

@@ -189,7 +189,9 @@ print(sess.run(hello))
 
 #### PyTorch 安装
 
-目前 PyTorch 只支持linux 和 MacOS，在这两个系统下进行安装非常的简单，访问到官网
+目前 PyTorch 官方只支持linux 和 MacOS，如果要查看 windows 的安装方法，请看后面。
+
+在 linux 和 MacOS 这两个系统下进行安装非常的简单，访问到官网
 
 [www.pytorch.org](http://www.pytorch.org)
 
@@ -197,13 +199,12 @@ print(sess.run(hello))
 
 按照提示在终端输入命令行即可 
 
-使用 windows 的同学安装非常麻烦，可以访问这个链接查看如何在 windows 下面安装pytorch
+##### 如何在 windows 下装 PyTorch
+使用 windows 的同学可以访问这个链接查看如何在 windows 下面安装pytorch
 
-<https://zhuanlan.zhihu.com/p/30954018>
+https://zhuanlan.zhihu.com/p/26871672
 
  
-
-再次推荐使用 windows 的同学安装liunx 双系统或者使用云服务器进行 pytorch 的安装与学习
 
 #### 验证安装
 

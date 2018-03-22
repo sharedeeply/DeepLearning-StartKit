@@ -199,7 +199,7 @@ print(sess.run(hello))
 
 按照提示在终端输入命令行即可 
 
-##### 如何在 windows 下装 PyTorch
+#### 如何在 windows 下装 PyTorch
 使用 windows 的同学可以访问这个链接查看如何在 windows 下面安装pytorch
 
 https://zhuanlan.zhihu.com/p/26871672
